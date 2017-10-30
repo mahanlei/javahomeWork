@@ -1,0 +1,71 @@
+Token:{Type:reservedWord,Code:int,Error:null}
+Token:{Type:ID,Code:min,Error:null}
+Token:{Type:Punctuation(,Code:(,Error:null}
+Token:{Type:reservedWord,Code:int,Error:null}
+Token:{Type:ID,Code:a,Error:null}
+Token:{Type:Punctuation,,Code:,,Error:null}
+Token:{Type:reservedWord,Code:int,Error:null}
+Token:{Type:ID,Code:b,Error:null}
+Token:{Type:Punctuation),Code:),Error:null}
+Token:{Type:Punctuation{,Code:{,Error:null}
+Token:{Type:reservedWord,Code:if,Error:null}
+Token:{Type:Punctuation(,Code:(,Error:null}
+Token:{Type:ID,Code:a,Error:null}
+Token:{Type:Operator=,Code:<,Error:null}
+Token:{Type:ID,Code:b,Error:null}
+Token:{Type:Punctuation),Code:),Error:null}
+Token:{Type:Punctuation{,Code:{,Error:null}
+Token:{Type:reservedWord,Code:return,Error:null}
+Token:{Type:ID,Code:a,Error:null}
+Token:{Type:Punctuation},Code:},Error:null}
+Token:{Type:reservedWord,Code:else,Error:null}
+Token:{Type:Punctuation{,Code:{,Error:null}
+Token:{Type:reservedWord,Code:return,Error:null}
+Token:{Type:ID,Code:b,Error:null}
+Token:{Type:Punctuation},Code:},Error:null}
+Token:{Type:Punctuation},Code:},Error:null}
+Token:{Type:reservedWord,Code:public,Error:null}
+Token:{Type:reservedWord,Code:static,Error:null}
+Token:{Type:reservedWord,Code:void,Error:null}
+Token:{Type:reservedWord,Code:main,Error:null}
+Token:{Type:Punctuation(,Code:(,Error:null}
+Token:{Type:reservedWord,Code:String,Error:null}
+Token:{Type:Punctuation[,Code:[,Error:null}
+Token:{Type:Punctuation],Code:],Error:null}
+Token:{Type:ID,Code:arg0,Error:null}
+Token:{Type:Punctuation),Code:),Error:null}
+Token:{Type:Punctuation{,Code:{,Error:null}
+Token:{Type:reservedWord,Code:int,Error:null}
+Token:{Type:ID,Code:result,Error:null}
+Token:{Type:Operator=,Code:=,Error:null}
+Token:{Type:reservedWord,Code:this,Error:null}
+Token:{Type:Punctuation.,Code:.,Error:null}
+Token:{Type:ID,Code:min,Error:null}
+Token:{Type:Punctuation(,Code:(,Error:null}
+Token:{Type:Number,Code:305,Error:null}
+Token:{Type:Punctuation,,Code:,,Error:null}
+Token:{Type:Number,Code:40,Error:null}
+Token:{Type:Punctuation),Code:),Error:null}
+Token:{Type:ID,Code:result,Error:null}
+Token:{Type:Operator*=,Code:*=,Error:null}
+Token:{Type:Negative Float,Code:-2.7,Error:null}
+Token:{Type:reservedWord,Code:String,Error:null}
+Token:{Type:ID,Code:classroom,Error:null}
+Token:{Type:Operator=,Code:=,Error:null}
+Token:{Type:Punctuation"",Code:"result",Error:null}
+Token:{Type:UNKNOWN,Code:";,Error:Fail to Recognize!}
+Token:{Type:Notes,Code:/*double min value*/,Error:null}
+Token:{Type:Operator/,Code:/*double min value*/,Error:null}
+Token:{Type:ID,Code:classroom,Error:null}
+Token:{Type:Operator=,Code:=,Error:null}
+Token:{Type:ID,Code:result,Error:null}
+Token:{Type:Operator/,Code:/,Error:null}
+Token:{Type:Punctuation(,Code:(,Error:null}
+Token:{Type:UNKNOWN,Code:-2.,Error:Fail to Recognize}
+Token:{Type:Punctuation),Code:),Error:null}
+Token:{Type:Operator+,Code:+,Error:null}
+Token:{Type:Punctuation"",Code:"",Error:null}
+Token:{Type:UNKNOWN,Code:";,Error:Fail to Recognize!}
+Token:{Type:reservedWord,Code:return,Error:null}
+Token:{Type:Number,Code:0,Error:null}
+Token:{Type:Punctuation},Code:},Error:null}
