@@ -22,9 +22,11 @@ public class test {
 //        insertData.insert(record);
 //        Query query=new Query();
 //        query.q4();
-        Change change=new Change();
+//        Change change=new Change();
 //        change.modification();
-change.changeDor();
+//change.changeDor();
+        RollbackTest rollbackTest=new RollbackTest();
+        rollbackTest.rtest();
 
 
     }

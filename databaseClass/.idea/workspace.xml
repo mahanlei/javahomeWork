@@ -44,88 +44,9 @@
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7529c5c8-4ed4-443a-a040-29ae02876075/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="35" lean-forward="false" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+            <state relative-caret-position="463">
+              <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="platform.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platform.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1509433000000" expanded="true" signature="193:257" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="259:325" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="327:391" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="393:419" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="421:463" ph="/*!40103 SET... " />
-                <marker date="1509433000000" expanded="true" signature="465:499" ph="/*!40103 SET... " />
-                <marker date="1509433000000" expanded="true" signature="501:568" ph="/*!40014 SET... " />
-                <marker date="1509433000000" expanded="true" signature="570:652" ph="/*!40014 SET... " />
-                <marker date="1509433000000" expanded="true" signature="654:728" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="730:785" ph="/*!40111 SET... " />
-                <marker date="1509433000000" expanded="true" signature="843:882" ph="DROP TABLE I... " />
-                <marker date="1509433000000" expanded="true" signature="884:945" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="947:990" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="992:1281" ph="CREATE TABLE... platform_article" />
-                <marker date="1509433000000" expanded="true" signature="1283:1338" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="1431:1486" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="1488:2011" ph="INSERT INTO `platform_article`... " />
-                <marker date="1509433000000" expanded="true" signature="2013:2067" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="2137:2173" ph="DROP TABLE I... " />
-                <marker date="1509433000000" expanded="true" signature="2175:2236" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="2238:2281" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="2283:2553" ph="CREATE TABLE... platform_deal" />
-                <marker date="1509433000000" expanded="true" signature="2555:2610" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="2697:2749" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="2751:3014" ph="INSERT INTO `platform_deal`... " />
-                <marker date="1509433000000" expanded="true" signature="3016:3067" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="3139:3177" ph="DROP TABLE I... " />
-                <marker date="1509433000000" expanded="true" signature="3179:3240" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="3242:3285" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="3287:3497" ph="CREATE TABLE... platform_reader" />
-                <marker date="1509433000000" expanded="true" signature="3499:3554" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="3645:3699" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="3701:4097" ph="INSERT INTO `platform_reader`... " />
-                <marker date="1509433000000" expanded="true" signature="4099:4152" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="4224:4262" ph="DROP TABLE I... " />
-                <marker date="1509433000000" expanded="true" signature="4264:4325" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="4327:4370" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="4372:4617" ph="CREATE TABLE... platform_writer" />
-                <marker date="1509433000000" expanded="true" signature="4619:4674" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="4765:4819" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="4821:5150" ph="INSERT INTO `platform_writer`... " />
-                <marker date="1509433000000" expanded="true" signature="5152:5205" ph="/*!40000 ALT... " />
-                <marker date="1509433000000" expanded="true" signature="5222:5262" ph="/*!40103 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5265:5303" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5305:5363" ph="/*!40014 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5365:5413" ph="/*!40014 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5415:5477" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5479:5543" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5545:5607" ph="/*!40101 SET... " />
-                <marker date="1509433000000" expanded="true" signature="5609:5649" ph="/*!40111 SET... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="platform_writer" pinned="false" current-in-tab="false">
-        <entry file="das://table:/3761422b/7529c5c8-4ed4-443a-a040-29ae02876075/databaseClass.platform_writer">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="platform_reader" pinned="false" current-in-tab="false">
-        <entry file="das://table:/3761422b/7529c5c8-4ed4-443a-a040-29ae02876075/databaseClass.platform_reader">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -177,9 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,7 +114,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,11 +243,12 @@
       <workItem from="1509419558530" duration="42000" />
       <workItem from="1509433077240" duration="384000" />
       <workItem from="1509456898635" duration="11000" />
+      <workItem from="1509712984450" duration="261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38463000" />
+    <option name="totallyTimeSpent" value="38724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,6 +261,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -349,10 +272,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2853688" sideWeight="0.49524942" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13422008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13812543" sideWeight="0.49407783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13948497" sideWeight="0.49407783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16809729" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1152019" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -413,6 +336,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="das://table:/3761422b/7529c5c8-4ed4-443a-a040-29ae02876075/databaseClass.platform_reader">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7529c5c8-4ed4-443a-a040-29ae02876075/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -720,6 +650,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7529c5c8-4ed4-443a-a040-29ae02876075/console_4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/platform.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -781,8 +719,8 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7529c5c8-4ed4-443a-a040-29ae02876075/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" column="35" lean-forward="false" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+        <state relative-caret-position="463">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding />
         </state>
       </provider>
